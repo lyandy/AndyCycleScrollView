@@ -1,0 +1,22 @@
+PODS:
+  - AndyCategory (1.0.6)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - AndyCategory (~> 1.0.6)
+  - SDWebImage (= 3.8.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AndyCategory
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  AndyCategory: 3e82cc9f0e8492a18a883364d0d7d918cc2baff8
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+PODFILE CHECKSUM: b86a27fe11d8aac028a580fcf72cdf3b14fb9e20
+
+COCOAPODS: 1.5.3
